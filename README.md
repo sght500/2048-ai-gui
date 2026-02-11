@@ -8,7 +8,7 @@ While AI engines like [macroxue/2048-ai](https://github.com/macroxue/2048-ai) ar
 
 This project provides the missing link: a **Human-in-the-loop** interface. By allowing players to quickly sync their physical game state (on phones, browsers, or even smartwatches) with a local AI server, we make high-level strategy accessible anywhere.
 
-**Real-world proof:** The image below shows a game in progress on a smartwatch, guided by this system, having already achieved the victorious **2048 tile**.
+**Real-world proof:** The images below show a game in progress on a smartwatch, guided by this system, having already achieved the victorious **2048 tile** and the elusive **4096 tile**.
 
 ![smartwatch_proof](./assets/smartwatch_proof.jpg)
 
